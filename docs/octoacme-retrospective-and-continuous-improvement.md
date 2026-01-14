@@ -14,8 +14,17 @@ After each sprint, release, or important milestone. Also after incidents.
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
+- **Facilitated by**: Scrum Master or PM
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- **Participation**: All team roles contribute perspectives
+  - Developers: technical process improvements
+  - Tech Lead: architecture and technical practice insights
+  - UX Designer: design process and user feedback
+  - Business Analyst: requirements clarity and stakeholder collaboration
+  - QA: testing process and quality insights
+  - Support Lead: production feedback and operational learnings
+  - PM/PdM: project management and delivery improvements
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines

@@ -20,14 +20,24 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Resource needs (team roles, rough effort estimate)
 
 ## Project One-pager Template
-- Project name:
-- Problem statement:
-- Objective / Goal (SMART):
-- Success metrics:
-- Primary stakeholders:
-- Suggested timeline / milestones:
-- Quick risks & dependencies:
-- Proposed team / roles:
+- **Project name**:
+- **Problem statement**:
+- **Objective / Goal (SMART)**:
+- **Success metrics**:
+- **Primary stakeholders**:
+- **Suggested timeline / milestones**:
+- **Quick risks & dependencies**:
+- **Proposed team / roles**:
+  - Project Manager:
+  - Product Manager:
+  - Tech Lead:
+  - Developers: (number and names if known)
+  - QA/Testing:
+  - Scrum Master: (if applicable)
+  - UX Designer: (if applicable)
+  - Business Analyst: (if applicable)
+  - Support Lead: (if applicable)
+  - Other roles:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
