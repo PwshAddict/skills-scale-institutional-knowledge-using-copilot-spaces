@@ -26,6 +26,7 @@ Our project management documentation is organized into focused documents that co
 - **[Release and Deployment](octoacme-release-and-deployment.md)** - Pre-release checklists, deployment processes, and rollback procedures
 - **[Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** - How to run effective retrospectives and implement action items
 - **[Roles and Personas](octoacme-roles-and-personas.md)** - Detailed descriptions of team roles and their responsibilities
+- **[Role Onboarding and Handoffs](octoacme-role-onboarding-and-handoffs.md)** - Templates and checklists for onboarding new team members and managing role transitions
 
 ## Getting Started
 
@@ -39,6 +40,11 @@ If you're new to OctoAcme, we recommend reviewing the documentation in this orde
    - **Project Managers**: Focus on [Project Initiation](octoacme-project-initiation.md), [Execution and Tracking](octoacme-execution-and-tracking.md), and [Risks and Communication](octoacme-risks-and-communication.md)
    - **Product Managers**: Prioritize [Project Planning](octoacme-project-planning.md) and [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
    - **Developers**: Start with [Execution and Tracking](octoacme-execution-and-tracking.md) and [Release and Deployment](octoacme-release-and-deployment.md)
+   - **Scrum Masters**: Review [Execution and Tracking](octoacme-execution-and-tracking.md), [Project Planning](octoacme-project-planning.md), and [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+   - **Tech Leads**: Focus on [Project Planning](octoacme-project-planning.md), [Execution and Tracking](octoacme-execution-and-tracking.md), and [Release and Deployment](octoacme-release-and-deployment.md)
+   - **UX Designers**: Review [Project Planning](octoacme-project-planning.md) and [Execution and Tracking](octoacme-execution-and-tracking.md)
+   - **Business Analysts**: Prioritize [Project Planning](octoacme-project-planning.md) and [Execution and Tracking](octoacme-execution-and-tracking.md)
+   - **Support Leads**: Focus on [Release and Deployment](octoacme-release-and-deployment.md) and [Risks and Communication](octoacme-risks-and-communication.md)
 4. Bookmark the documents most relevant to your day-to-day work
 
 ### For Starting a New Project
